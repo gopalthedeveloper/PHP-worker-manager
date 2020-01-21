@@ -1,3 +1,3 @@
 # PHP-worker-manager
 Implimentation of baground worker manager.
-Its is for simple paralle procesing a code.
+Its is for simple parallel procesing a code.
