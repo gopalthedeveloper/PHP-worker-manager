@@ -1,2 +1,3 @@
 # PHP-worker-manager
-Implimentation of worker manager for all all process 
+Implimentation of baground worker manager.
+Its is for simple paralle procesing a code.
